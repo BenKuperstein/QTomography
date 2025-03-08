@@ -4,3 +4,4 @@ qutip
 opencv-python
 tqdm
 uncertainties
+scipy
