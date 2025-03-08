@@ -1,0 +1,6 @@
+numpy
+matplotlib
+qutip
+opencv-python
+tqdm
+uncertainties
