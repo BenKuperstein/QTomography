@@ -1,0 +1,4 @@
+*.xlsx binary
+*.png binary
+*.jpg binary
+*.ipynb filter=strip-notebook-output
